@@ -6,7 +6,7 @@
 - **学号：** 112404260118
 - **班级：** 数据1241
 - **GitHub 用户名：** luyuheyao
-- **仓库地址：** https://github.com/luyuheyao/shujucaiji
+- **仓库地址：https://github.com/luyuheyao/bigdata-collection-labs-112404260118** 
 
 > 文件位置：`lab01/REPORT.md`  
 > 完整代码保存在 `lab1_html_api.ipynb`。  
