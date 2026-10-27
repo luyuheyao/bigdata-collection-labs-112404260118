@@ -4,7 +4,7 @@
 - 姓名：陆禹贺垚
 - 学号：112404260118
 - 实验日期：2026-10-27
-- GitHub 仓库链接：<https://github.com/luyuheyao/shujucaiji>
+- GitHub 仓库链接：(https://github.com/luyuheyao/bigdata-collection-labs-112404260118)
 - 源码文件名：`anjuke.ipynb`
 - 数据库与表：`smartpark_lab.houseinfo`
 - 数据来源：在线教学站 <http://www.bspider.top/anjuke/>
